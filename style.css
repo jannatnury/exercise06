@@ -1,0 +1,15 @@
+.heading{
+    color: orangered;
+}
+button{
+    color: white;
+    background-color: red;
+    border: none;
+}
+p{
+  color: black;
+}
+.title{
+    border-left: 10px solid red;
+    height: 90px;
+}
