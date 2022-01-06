@@ -1,7 +1,7 @@
 .heading{
-    color: orangered;
+    color: orange;
 }
-button{
+.all-button{
     color: white;
     background-color: red;
     border: none;
@@ -12,4 +12,51 @@ p{
 .title{
     border-left: 10px solid red;
     height: 90px;
+}
+.div1{
+    display: flex;
+}
+img{
+    height:350px;
+    width: 300px;
+}
+.div1{
+    width: 70%;
+    margin-left: 2cm;
+    margin-top: 1cm;
+}
+.heading2{
+    color: orange;
+}
+.second-prt{
+    display: flex;
+    margin-left: 2cm;
+    margin-right: 2cm;
+}
+.sec-1{
+    color: black;
+    background-color:lightgreen;
+}
+.sec-2{
+    color: black;
+    background-color:lightblue;
+}
+.sec-3{
+    color: black;
+    background-color:pink;
+}
+.third-prt{
+    display: flex;
+    margin-left: 2cm;
+    margin-right: 2cm;
+}
+.fourth-prt{
+    display: flex;
+    margin-left: 2cm;
+    margin-right: 2cm;
+}
+.lastprt{
+    display: flex;
+    margin-left: 2cm;
+    margin-right: 2cm;
 }
